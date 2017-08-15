@@ -1,6 +1,6 @@
 # DragNDrop
 
-An app which applied the new iOS 11 Drag and Drop API from Apple.
+An app which applies the new iOS 11 Drag and Drop API from Apple.
 
 ## Demo
 
